@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053557702768",
+    "firebase_url": "https://localremaindersadit.firebaseio.com",
+    "project_id": "localremaindersadit",
+    "storage_bucket": "localremaindersadit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053557702768:android:459ae05c5054051f1ab4b5",
+        "android_client_info": {
+          "package_name": "com.localremaindersadit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053557702768-0msest64t6pln19gpu4h1bouqefg12ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjP7urFJFtp87C36p6tCSID0DvPvkkeVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053557702768-0msest64t6pln19gpu4h1bouqefg12ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
